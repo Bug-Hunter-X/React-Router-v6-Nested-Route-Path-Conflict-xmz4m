@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in React Router v6 related to nested routes with overlapping paths. The bug causes unexpected routing behavior when navigating to a parent route that has a nested child route with the same path. The solution provides a workaround using route parameters to resolve the path conflict and ensure correct routing.
